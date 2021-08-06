@@ -1,6 +1,8 @@
-# The Molecular Subtyping Resource (MouSR): a user-friendly tool for rapid biological discovery from human or mouse transcriptional data
+# MouSR
 
-How To Use MouSR App
+The Molecular Subtyping Resource (MouSR) is a user-friendly tool for rapid biological discovery from human or mouse transcriptional data
+
+# How To Use MouSR App
 
 The app is hosted here: https://mousr.qub.ac.uk/
 
@@ -17,5 +19,5 @@ D) Install all depended CRAN R packages and R Bioconductor packages.
 E) A web page will be open in you browser to display the App.
 
 
-Feedback
-If you have further questions and suggestions or reports of any issues please drop us an email  mouseclassifier@gmail.com.
+# Feedback
+If you have any further question, suggestion or reports of any issues, please drop us an email at mouseclassifier@gmail.com.
