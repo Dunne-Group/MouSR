@@ -1,4 +1,4 @@
-Types	Samples	Labels
+Group	Samples	Group-ID
 KPN_tumour	KPNt1	KPNt1
 KPN_tumour	KPNt2	KPNt2
 KPN_tumour	KPNt3	KPNt3
